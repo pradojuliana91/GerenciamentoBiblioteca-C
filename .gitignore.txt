@@ -1,0 +1,9 @@
+# Binários e arquivos de projeto do CodeBlocks
+*.exe
+*.o
+*.layout
+*.depend
+*.cbp
+# Arquivos gerados pelo programa
+*.bin
+*.txt
